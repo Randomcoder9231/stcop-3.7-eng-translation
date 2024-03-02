@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_game_window_name">
+		<text>Advanced X-Ray</text>
+	</string>
+	<string id="st_discord_menu">
+		<text>Main Menu</text>
+	</string>
+	<string id="ui_mm_cam_fov">
+		<text>Field of View</text>
+	</string>
+	<string id="ui_mm_hud_fov">
+		<text>HUD FOV</text>
+	</string>
+	<string id="ui_mm_detail_radius">
+		<text>Detail Grass Range</text>
+	</string>
+	<string id="ui_mm_detail_scale">
+		<text>Grass Height</text>
+	</string>
+	<string id="ui_mm_ssr_quality">
+		<text>Reflection Quality</text>
+	</string>
+	<string id="dtssr_off">
+		<text>Disabled</text>
+	</string>
+	<string id="dtssr_lowest">
+		<text>Very Low</text>
+	</string>
+	<string id="dtssr_low">
+		<text>Low</text>
+	</string>
+	<string id="dtssr_medium">
+		<text>Medium</text>
+	</string>
+	<string id="dtssr_high">
+		<text>High</text>
+	</string>
+	<string id="ui_mm_bloodmarks_on_skeleton">
+		<text>Bloodmarks on Corpses</text>
+	</string>
+	<string id="ui_mm_actor_shadow">
+		<text>Player Shadow</text>
+	</string>
+	<string id="ui_mm_mblur_enable">
+		<text>Motion Blur</text>
+	</string>
+	<string id="ui_mm_mblur">
+		<text>Interactive Motion Blur</text>
+	</string>
+	<string id="ui_mm_sunshafts_mode">
+		<text>Sun Shafts Mode</text>
+	</string>
+	<string id="volumetric">
+		<text>Volumetric</text>
+	</string>
+	<string id="screen_space">
+		<text>Screen Space</text>
+	</string>
+	<string id="combine_sunshafts">
+		<text>Combined</text>
+	</string>
+	<string id="ui_mm_raindrops">
+		<text>Raindrops Effect</text>
+	</string>
+	<string id="ui_mm_sun_details">
+		<text>Grass Shadow</text>
+	</string>
+	<string id="ui_mm_clr_drag_preset">
+		<text>Color Correction Preset</text>
+	</string>
+	<string id="clr_default">
+		<text>Original</text>
+	</string>
+	<string id="clr_sepia">
+		<text>Sepia</text>
+	</string>
+	<string id="clr_gray_moss">
+		<text>Gray Moss</text>
+	</string>
+	<string id="clr_graphite_gray">
+		<text>Graphite Gray</text>
+	</string>
+	<string id="clr_zone">
+		<text>Gloomy Zone</text>
+	</string>
+	<string id="clr_warm_tone">
+		<text>Warm Tones</text>
+	</string>
+	<string id="clr_blue">
+		<text>Blue Shade</text>
+	</string>
+	<string id="ui_mm_clr_red">
+		<text>Color Correction: Red</text>
+	</string>
+	<string id="ui_mm_clr_green">
+		<text>Color Correction: Green</text>
+	</string>
+	<string id="ui_mm_clr_blue">
+		<text>Color Correction: Blue</text>
+	</string>
+	<string id="ui_st_corpse_collision">
+		<text>Corpse Collision</text>
+	</string>
+	<string id="ui_mm_smap_size">
+		<text>Shadow Map Size</text>
+	</string>
+	<string id="ui_mm_saturation">
+		<text>Color Saturation</text>
+	</string>
+	<string id="ui_mm_r2_aa_mode">
+		<text>Additional Anti-aliasing Type</text>
+	</string>
+	<string id="opt_noaa">
+		<text>Disabled</text>
+	</string>
+	<string id="opt_smaa">
+		<text>SMAA</text>
+	</string>
+	<string id="opt_dlaa">
+		<text>DLAA</text>
+	</string>
+	<string id="opt_fxaa">
+		<text>FXAA</text>
+	</string>
+	<string id="ui_mm_vignette_effect">
+		<text>Vignette Effect</text>
+	</string>
+	<string id="ui_mm_hud_mask">
+		<text>Dynamic HUD Masks</text>
+	</string>
+	<string id="ui_st_hud_collision">
+		<text>Weapon HUD Collision</text>
+	</string>
+	<string id="camera_1">
+		<text>First Person View</text>
+	</string>
+	<string id="camera_2">
+		<text>Second Person View</text>
+	</string>
+	<string id="camera_3">
+		<text>Third Person View</text>
+	</string>
+	<string id="ui_mm_quick_saves_count">
+		<text>Number of Quick Saves</text>
+	</string>
+	<string id="ui_st_loading_stages">
+		<text>Game Loading Stages</text>
+	</string>
+	<string id="ui_st_keypress_on_start">
+		<text>Auto Pause After Loading</text>
+	</string>
+	<string id="ui_mm_hud_dynamic_effects">
+		<text>Dynamic HUD Effects</text>
+	</string>
+	<string id="disabled">
+		<text>Disabled</text>
+	</string>
+	<string id="default">
+		<text>SSAO</text>
+	</string>
+	<string id="hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ssdo">
+		<text>SSDO</text>
+	</string>
+	<string id="ui_mm_snd_delay">
+		<text>Sound Delay in Distance</text>
+	</string>
+	<string id="kb_grp_auto">
+		<text>Transport</text>
+	</string>
+	<string id="ui_inv_battery">
+		<text>Battery Charge</text>
+	</string>
+	<string id="ui_inv_max_charge">
+		<text>Maximum Charge</text>
+	</string>
+	<string id="ui_inv_uncharge_speed">
+		<text>Battery Consumption</text>
+	</string>
+	<string id="st_battery">
+		<text>Battery</text>
+	</string>
+	<string id="st_battery_descr">
+		<text>Standard button cell battery. Widely used by stalkers to charge various devices.</text>
+	</string>
+	<string id="st_charge_item">
+		<text>Charge:</text>
+	</string>
+	<string id="ui_st_walk_inertion">
+		<text>Walk Inertia</text>
+	</string>
+	<string id="ui_fp_death">
+		<text>First-Person Death</text>
+	</string>
+	<string id="ui_inv_thirst">
+		<text>Thirst Quenching</text>
+	</string>
+	<string id="ui_mm_3d_scopes">
+		<text>3D Scopes</text>
+	</string>
+	<string id="ui_inv_portions">
+		<text>Number of Portions</text>
+	</string>
+	<string id="ui_inv_artefact_charge">
+		<text>Artefact Charge</text>
+	</string>
+	<string id="ui_walk_accel">
+		<text>Walk Speed</text>
+	</string>
+	<string id="ui_jump_speed">
+		<text>Jump Height</text>
+	</string>
+	<string id="ui_mm_crosshair_type">
+		<text>Crosshair Type</text>
+	</string>
+	<string id="default_crosshair">
+		<text>Default</text>
+	</string>
+	<string id="builds_crosshair">
+		<text>Builds</text>
+	</string>
+	<string id="point_crosshair">
+		<text>Dot</text>
+	</string>
+	<string id="ui_mm_snd_precache">
+		<text>Sound Precaching</text>
+	</string>
+	<string id="ui_mm_shader_nvg">
+		<text>Night Vision Shader</text>
+	</string>
+	<string id="ui_mm_3d_pda">
+		<text>3D PDA</text>
+	</string>
+	<string id="ui_inv_intoxication">
+		<text>Intoxication</text>
+	</string>
+	<string id="ui_inv_sleepeness">
+		<text>Sleepiness</text>
+	</string>
+	<string id="ui_mm_r2_use_bump">
+		<text>Use Bumps</text>
+	</string>
+	<string id="st_bolt_descr">
+		<text>Metal fastening device in the form of a rod with external threading and a hexagonal head for a wrench. Used by stalkers to detect, delineate anomalies, and discharge them, as well as to detect mines.</text>
+	</string>
+	<string id="ui_mm_optimize_static_geom">
+		<text>Optimize Static Geometry</text>
+	</string>
+	<string id="ui_mm_optimize_dynamic_geom">
+		<text>Optimize Dynamic Geometry</text>
+	</string>
+	<string id="ui_mm_optimize_shadow_geom">
+		<text>Optimize Shadow Maps</text>
+	</string>
+	<string id="ui_mm_r2_static_sun">
+		<text>Static Sun</text>
+	</string>
+	<string id="ui_inv_af_radius">
+		<text>Action Radius</text>
+	</string>
+	<string id="ui_inv_af_vis_radius">
+		<text>Visibility Radius</text>
+	</string>
+	<string id="ui_mm_snd_targets">
+		<text>Sound Sources</text>
+	</string>
+	<string id="ui_mm_flares_render">
+		<text>Render Flares</text>
+	</string>
+	<string id="st_opt_always">
+		<text>Always</text>
+	</string>
+	<string id="st_opt_on_helmet">
+		<text>Depending on Helmet</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Strike</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Explosion</text>
+	</string>
+	<string id="ui_inv_alcoholism">
+		<text>Alcoholism</text>
+	</string>
+	<string id="ui_inv_hangover">
+		<text>Hangover</text>
+	</string>
+	<string id="ui_inv_narcotism">
+		<text>Narcotic Addiction</text>
+	</string>
+	<string id="ui_inv_withdrawal">
+		<text>Withdrawal</text>
+	</string>
+	<string id="ui_inv_af_rank">
+		<text>Rank</text>
+	</string>
+	<string id="ui_inv_filter_condition">
+		<text>Filter Cleanliness</text>
+	</string>
+	<string id="st_filter">
+		<text>Gas Mask Filter</text>
+	</string>
+	<string id="st_filter_descr">
+		<text>Standard gas mask filter.</text>
+	</string>
+	<string id="st_change_filter">
+		<text>Change Filter:</text>
+	</string>
+	<string id="ui_mm_mt_textures_load">
+		<text>MT Texture Loading</text>
+	</string>
+	<string id="ui_mm_adv_crosshair">
+		<text>Advanced Crosshair</text>
+	</string>
+	<string id="ui_mm_lowland_fog_type">
+		<text>Lowland Fog Type</text>
+	</string>
+	<string id="st_gswr">
+		<text>G.S.W.R.</text>
+	</string>
+	<string id="st_screen_space_shaders">
+		<text>Screen Space Shaders</text>
+	</string>
+	<string id="st_repair">
+		<text>Repair:</text>
+	</string>
+	<string id="st_repair_kit">
+		<text>Repair Kit</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>Standard repair kit. Allows repair of equipment if you know what you're doing.</text>
+	</string>
+	<string id="kb_weapon7">
+		<text>Weapon 7</text>
+	</string>
+	<string id="ui_inv_psy_health">
+		<text>Psy Health</text>
+	</string>
+	<string id="ui_mm_reflections_distance">
+		<text>Reflection Distance</text>
+	</string>
+	<string id="ui_mm_vis_dist_hint">
+		<text>This setting adjusts the amount by which the maximum visibility distance set in the current weather profile is multiplied. For example, if the weather has a visibility range of 150 meters, at the minimum slider position, you will see up to 60 meters, and at the maximum, up to 225. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_geometry_lod_hint">
+		<text>This setting adjusts the level of detail in rendering and lighting of human, monster, and weapon models in the game. The further the slider, the more detailed they will be. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_detail_density_hint">
+		<text>This setting adjusts how densely grass tufts are rendered in the game. The further the slider, the closer together grass elements will be rendered, making it denser. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_detail_radius_hint">
+		<text>This setting adjusts the maximum distance at which grass is rendered. The further the slider, the farther the edge of the grass will be. WARNING! The game's grass rendering algorithm means that increasing the grass radius exponentially increases the load on the graphics card. Reasonable values lie within the range of 150-200 meters. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_texture_lod_hint">
+		<text>This setting adjusts the level of detail in the game's textures. The further the slider, the clearer the textures and the more video memory they require. Lowering this setting will blur the textures but consume less memory. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_aniso_hint">
+		<text>This setting adjusts the degree of anisotropic filtering of textures. The higher the value, the sharper textures will appear as the distance to them increases. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_bloodmarks_on_skeleton_hint">
+		<text>This setting enables bullet hit marks on NPC bodies. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r2_sun_hint">
+		<text>This setting enables objects to cast shadows from sunlight. Disabling this setting on low-end PCs can significantly increase performance. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_sun_details_hint">
+		<text>This setting enables grass to cast shadows from sunlight and other sources of dynamic lighting. WARNING! This setting significantly impacts performance. Do not use it with large grass render radius or high grass density! \n\n %c[pda_red] • Load: VERY HIGH</text>
+	</string>
+	<string id="ui_mm_light_distance_hint">
+		<text>This setting adjusts the accuracy of lighting calculations as the distance to them increases. The higher it is, the more detailed shadows from dynamic light sources will appear at a distance. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_npc_torch_hint">
+		<text>This setting allows the game to process volumetric light from NPC torches. Disabling this setting on low-end PCs can significantly increase performance at night, especially in camps with many NPCs. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_particles_distance_hint">
+		<text>This setting adjusts the quality of shadow rendering in the game. The higher it is, the smoother the edges of shadows will be. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_vsync_hint">
+		<text>This setting enables vertical synchronization, i.e., synchronizing the frame rate with the monitor's refresh rate. Enabling it eliminates the slight horizontal screen tearing effect during rapid mouse movements but may slightly reduce performance. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_60hz_hint">
+		<text>This setting forces the game to always use a video mode with a 60Hz refresh rate. This setting is useful for owners of monitors where the game incorrectly detects the screen refresh rate at startup. However, it is recommended to enable this setting only if you have this problem. In some rare cases, enabling this setting may cause lag in fullscreen mode. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r2_aa_mode_hint">
+		<text>This setting allows you to enable or disable additional anti-aliasing. Additional anti-aliasing works simultaneously with the main (MSAA). Or without it, as the main. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sunshafts_mode_hint">
+		<text>This setting switches the type of sunshafts. Choose the one you prefer. \n\n %c[pda_green] • Screen Space: Low Load\n %c[pda_red] • Volumetric: High Load\n %c[pda_red] • Combined: High Load</text>
+	</string>
+	<string id="ui_mm_soft_water_hint">
+		<text>This setting enables the softening effect on the edge of water surfaces. When enabled, water at the edge of bodies of water will smoothly fade to transparency, eliminating the sharp and highly noticeable boundary between water and land. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_soft_particles_hint">
+		<text>This setting enables the soft particles effect. When enabled, effects such as fire, smoke, explosions, sparks, etc., will greatly improve in appearance. It is recommended to always keep this setting enabled. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_ssao_hint">
+		<text>This setting allows you to adjust the quality of global illumination in the game. When enabled, this effect calculates additional geometry shading of models, making lighting more realistic by adding semi-shadows and shading from equipment, clothing, vehicle details, and other small geometry parts. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_ssao_mode_hint">
+		<text>This setting adjusts the operation mode of the global illumination effect in the game. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_steep_parallax_hint">
+		<text>This setting adjusts the enhanced surface relief effect using the Steep parallax mapping algorithm. This algorithm uses ray tracing in the height map space to calculate relief, resulting in a more realistic and high-quality effect. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_dof_hint">
+		<text>This setting enables the depth of field effect - real-time focus adjustment. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump_hint">
+		<text>This setting enables Detailed Bump - displaying fine details and roughness on objects. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r3_lfx">
+		<text>Enables light flares. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_raindrops_hint">
+		<text>This setting enables raindrops on helmet and gas mask glass during rain. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces_hint">
+		<text>Enables surfaces to get wet during rain. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_volumetric_light_hint">
+		<text>This setting enables volumetric light for some lamps. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_ssr_quality_hint">
+		<text>This setting allows you to adjust the quality of reflections from water and wet surfaces or turn them off. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_volumetric_smoke_hint">
+		<text>This setting enables volumetric fog technology. It is used to simulate murky water, mist in lowlands, and similar effects. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_actor_shadow_hint">
+		<text>This setting enables the shadow from the main character. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_smap_size_hint">
+		<text>The higher the shadow map resolution, the sharper distant shadows will be. It is recommended to set the resolution no lower than 4096x4096. This setting significantly affects performance. \n\n %c[pda_red] • Load: VERY HIGH</text>
+	</string>
+	<string id="ui_mm_mt_textures_load_hint">
+		<text>Activates simultaneous loading of textures by multiple threads. May slightly reduce save loading time with an SSD. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_fov_hint">
+		<text>It makes sense to increase the field of view for widescreen monitors and depending on individual preferences. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_hud_fov_hint">
+		<text>Player's field of view. If the value, for example, is 0.45 or lower, the weapon will appear closer; if the value is 0.65 or higher, the weapon during gameplay will appear farther away. It makes sense to adjust individually for widescreen monitors and depending on FOV. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_ssample_hint">
+		<text>This setting allows you to change the MSAA multiplier. WARNING! High values can significantly reduce performance. It is recommended to set the multiplier to 4x. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_detail_scale_hint">
+		<text>This setting allows you to change the height of the grass. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r2_static_sun_hint">
+		<text>This option enables static shadows from the sun. When this option is enabled, shadows will not change their size and orientation depending on the sun's position in the sky. It can significantly increase FPS on weak PCs. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_flares_hint">
+		<text>This setting allows you to select the mode of operation of glare from light sources on the camera or disable them. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_r2_use_bump_hint">
+		<text>This setting allows you to forcibly disable the use of bump maps in the game. The geometry quality will be lower, but it will slightly increase performance. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sun_quality_hint">
+		<text>This setting allows you to adjust the quality of the sun. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_sunshafts_hint">
+		<text>This setting allows you to adjust the quality of sunshafts. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_reflections_distance_hint">
+		<text>This setting allows you to adjust the distance of reflections. Values from 300 to 500 meters are recommended. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_r4_tesselation_hint">
+		<text>This option enables or disables tessellation. Tessellation algorithms allow breaking down one primitive, for example, a triangle, into several according to a certain law, making the geometry look smoother. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_r3_lowland_fog_type_hint">
+		<text>This setting allows you to choose the type of lowland fog. Either the native one from G.S.W.R. or from the Screen Space Shaders add-on. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_3d_scopes_hint">
+		<text>This setting enables or disables 3D scopes in the game. This option will not work with original weapons. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_3d_pda_hint">
+		<text>This option enables or disables the 3D PDA. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_vignette_hint">
+		<text>This option enables or disables the vignette effect. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_hud_mask_hint">
+		<text>This option enables or disables the dynamic effect of helmet or gas mask glass on the screen. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_hud_effects_hint">
+		<text>This option enables or disables dynamic effects on the screen. With this effect enabled, the screen will redden at the edges when health decreases, darken when stamina decreases, etc. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_shader_nvg_hint">
+		<text>This setting enables or disables the shader effect of night vision devices. If the option is disabled, the original effect is used. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_mblur_enable_hint">
+		<text>This setting enables or disables the motion blur effect in sharp movements. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_mblur_hint">
+		<text>This option allows you to adjust the intensity of the motion blur effect in sharp movements. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_optimize_static_geom_hint">
+		<text>This option allows you to adjust the optimization of static geometry (locations). This option significantly degrades the picture by disabling all geometry at a distance, but for weak PCs, it can be a solution to low performance. The further the slider, the closer the cutoff boundary of static geometry. When the value is zero, the effect is disabled. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_optimize_dynamic_geom_hint">
+		<text>This option allows you to adjust the optimization of dynamic geometry (crates, barrels, NPCs, etc.). The further the slider, the closer the cutoff boundary of dynamic geometry. When the value is zero, the effect is disabled. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_optimize_shadow_geom_hint">
+		<text>This option allows you to enable or disable shadow optimization. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_color_r_hint">
+		<text>This setting allows you to adjust the intensity of the red color for color correction. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_color_g_hint">
+		<text>This setting allows you to adjust the intensity of the green color for color correction. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_color_b_hint">
+		<text>This setting allows you to adjust the intensity of the blue color for color correction. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_saturation_hint">
+		<text>This setting allows you to adjust the color saturation for color correction. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_renderer_hint">
+		<text>This option allows you to select the type of lighting. Static lighting is suitable for weak PCs, and dynamic lighting is for more powerful ones.</text>
+	</string>
+	<string id="ui_mm_preset_hint">
+		<text>This option allows you to select a ready-made settings preset. High settings may reduce performance. It is recommended to manually adjust the settings.</text>
+	</string>
+	<string id="ui_mm_resolution_hint">
+		<text>This option allows you to set the screen resolution in the game. It is recommended to set the resolution corresponding to the monitor.</text>
+	</string>
+	<string id="ui_mm_clr_drag_preset_hint">
+		<text>This setting allows you to select a ready-made color correction setting.</text>
+	</string>
+	<string id="ui_mm_snd_targets_hint">
+		<text>This setting allows you to adjust the maximum permissible number of sound sources. The more sources, the less likely clicks and crackles in places where a large number of sounds are played simultaneously. Usually, these are anomaly zones.</text>
+	</string>
+	<string id="ui_mm_eax_hint">
+		<text>This option enables or disables the use of surround sound effects. If the option is enabled, echo can be heard in some rooms.</text>
+	</string>
+	<string id="ui_mm_dynamic_music_hint">
+		<text>This option enables or disables dynamic music in the game. This is music that starts playing during combat with enemies.</text>
+	</string>
+	<string id="ui_mm_snd_delay_hint">
+		<text>This option enables or disables sound delay. The further the sound from the camera, the longer it will take to play back.</text>
+	</string>
+	<string id="ui_mm_snd_precache_hint">
+		<text>This option enables sound caching. When enabled, all sounds will be loaded at the start of the game. The game startup speed to the main menu increases, but the likelihood of freezes during NPC loading decreases in the game.</text>
+	</string>
+	<string id="ui_mm_crosshair_type_hint">
+		<text>This option allows you to adjust the type of crosshair on the screen.</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair_hint">
+		<text>If this option is enabled, the crosshair will change size depending on the distance to the object it points to.</text>
+	</string>
+	<string id="ui_mm_adv_crosshair_hint">
+		<text>This setting enables or disables the enhanced crosshair, which moves along with changes in the direction of the weapon barrel.</text>
+	</string>
+	<string id="ui_mm_hud_collision_hint">
+		<text>This setting enables or disables weapon collision in the hands of the hero. If the option is enabled, the hero will remove the weapon from obstacles.</text>
+	</string>
+	<string id="ui_mm_corpse_collision_hint">
+		<text>This setting enables or disables corpse collision. If the option is enabled, corpses become a real obstacle and the main character cannot pass through them. WARNING! This option may cause pathfinding issues in enclosed spaces.</text>
+	</string>
+	<string id="ui_mm_walk_inertion_hint">
+		<text>This option enables the simulation of walking inertia for the hero. That is, when we move forward and stop, the camera will still move forward slightly and then move back to its original position.</text>
+	</string>
+	<string id="ui_mm_loading_stages_hint">
+		<text>This setting enables or disables loading stages of the game on the loading screen.</text>
+	</string>
+	<string id="ui_mm_quick_saves_count_hint">
+		<text>This option allows you to adjust the number of quick saves. If the option value is greater than 0, saves are created with a sequential number. When quick saving reaches the ceiling specified in the option, it starts overwriting old saves. It is strongly recommended to set the maximum possible number of quick saves.</text>
+	</string>
+	<string id="ui_mm_detail_collision">
+		<text>Grass Collision</text>
+	</string>
+	<string id="ui_mm_detail_collision_hint">
+		<text>This option enables the application of grass by the hero and characters. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_chromatic_aberration">
+		<text>Chromatic Aberration</text>
+	</string>
+	<string id="ui_mm_chromatic_aberration_hint">
+		<text>This option enables the chromatic aberration effect in the game. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_film_grain">
+		<text>Film Grain</text>
+	</string>
+	<string id="ui_mm_film_grain_hint">
+		<text>This option enables the film grain effect in the game. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_screen_space_shaders">
+		<text>Screen Space Shaders</text>
+	</string>
+	<string id="ui_mm_screen_space_shaders_hint">
+		<text>This option enables the Screen Space Shaders add-on. \n\n %c[pda_red] • Load: High</text>
+	</string>
+	<string id="ui_mm_sss_sky_debanding">
+		<text>SSS: Sky Smoothing</text>
+	</string>
+	<string id="ui_mm_sss_sky_debanding_hint">
+		<text>This option smooths out sky textures, making transitions between pixels smoother. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_flora_fix">
+		<text>SSS: Improved Flora Lighting</text>
+	</string>
+	<string id="ui_mm_sss_flora_fix_hint">
+		<text>This option improves the interaction of bushes, branches, and grass with lighting, as well as fixes flaws. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_fog">
+		<text>SSS: Screen Space Fog</text>
+	</string>
+	<string id="ui_mm_sss_fog_hint">
+		<text>This option activates support for lowland fog from Screen Space Shaders. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_indirect_light">
+		<text>SSS: Indirect Lighting</text>
+	</string>
+	<string id="ui_mm_sss_indirect_light_hint">
+		<text>This option enables indirect lighting, which, when hitting a surface, reflects from it in different directions, thereby illuminating other surfaces around. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_screen_space_shadows">
+		<text>SSS: Screen Space Shadows</text>
+	</string>
+	<string id="ui_mm_sss_screen_space_shadows_hint">
+		<text>This option adds shadows to weapons and small details. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_shadows">
+		<text>SSS: Shadow Offset</text>
+	</string>
+	<string id="ui_mm_sss_shadows_hint">
+		<text>This option enables shadow offset from Screen Space Shaders 19. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_sss_wind">
+		<text>SSS: Wind</text>
+	</string>
+	<string id="ui_mm_sss_wind_hint">
+		<text>This option enables the influence of wind on grass and trees from Screen Space Shaders 19. If you enable this option, the wind influence from Advanced X-Ray will be disabled. \n\n %c[pda_green] • Load: Low</text>
+	</string>
+	<string id="ui_mm_enchanted_shaders">
+		<text>Enchanted Shaders</text>
+	</string>
+	<string id="ui_mm_enchanted_shaders_hint">
+		<text>This option enables the Enchanted Shaders add-on. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_death_cam_mode">
+		<text>Death Camera Mode</text>
+	</string>
+	<string id="freelook">
+		<text>Original</text>
+	</string>
+	<string id="fixedlook">
+		<text>Fixed to Body</text>
+	</string>
+	<string id="firsteye">
+		<text>First-Person</text>
+	</string>
+	<string id="ui_mm_death_cam_mode_hint">
+		<text>This option allows you to adjust the camera behavior during the hero's death.</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures_hint">
+		<text>This option contributes to improving the game's graphics, making it more realistic and beautiful. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="st_m">
+		<text>m</text>
+	</string>
+	<string id="ui_inv_repair_kit_condition">
+		<text>Durability</text>
+	</string>
+	<string id="ui_mm_dynamic_wet_surfaces_far">
+		<text>Wet Surface Radius</text>
+	</string>
+	<string id="ui_mm_dynamic_wet_surfaces_far_hint">
+		<text>This option allows you to adjust the radius of the surface wetting effect during rain. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_r4_es_pseudo_pbr">
+		<text>Pseudo PBR</text>
+	</string>
+	<string id="ui_mm_r4_es_pseudo_pbr_hint">
+		<text>This option enables the implementation of pseudo PBR. Allows you to achieve beautiful highlights on textures, but does not always look good. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_mm_fps_limit">
+		<text>FPS Limiter</text>
+	</string>
+	<string id="ui_mm_fps_limit_hint">
+		<text>This setting allows you to limit the maximum frame rate in the game. This allows for a more stable game display and reduces the load on hardware and system resources, providing a smoother and more comfortable gaming experience.</text>
+	</string>
+	<string id="ui_inv_alcohol">
+		<text>Alcohol Intoxication</text>
+	</string>
+	<string id="ui_inv_drugs">
+		<text>Drug Intoxication</text>
+	</string>
+	<string id="st_put_to">
+		<text>Put Into</text>
+	</string>
+	<string id="st_take_from">
+		<text>Take From</text>
+	</string>
+	<string id="ui_inv_artefacts_count">
+		<text>Capacity</text>
+	</string>
+	<string id="st_af_container">
+		<text>Artifact Container</text>
+	</string>
+	<string id="st_af_container_descr">
+		<text>The lead-insulated metal artifact container is a simple metal box with thick walls lined with foam, as well as a heavy lid with sealing rubber. Designed specifically for transporting artifacts. The special solution containing the artifact retains its anomalous energy, and the tightness and lead lining allow blocking all negative radiation emanating from the artifacts, thereby ensuring user safety. However, it cannot be attached to the belt - this means that it blocks both the positive properties of the artifacts and the negative ones.</text>
+	</string>
+	<string id="st_addon_laser">
+		<text>Laser Sight</text>
+	</string>
+	<string id="st_addon_laser_descr">
+		<text>A reliable companion for those who value accuracy and reliability in the world of marksmanship.</text>
+	</string>
+	<string id="st_detach_laser">
+		<text>Detach Laser Sight</text>
+	</string>
+	<string id="st_attach_laser_to">
+		<text>Attach Laser Sight to</text>
+	</string>
+	<string id="st_addon_tactical_torch">
+		<text>Tactical Flashlight</text>
+	</string>
+	<string id="st_addon_tactical_torch_descr">
+		<text>Tactical flashlight.</text>
+	</string>
+	<string id="st_detach_tactical_torch">
+		<text>Detach tactical flashlight</text>
+	</string>
+	<string id="st_attach_tactical_torch_to">
+		<text>Attach tactical flashlight to</text>
+	</string>
+	<string id="st_backpack_full">
+		<text>Backpack is full!</text>
+	</string>
+	<string id="ui_inv_inventory_capacity">
+		<text>Capacity</text>
+	</string>
+	<string id="ui_inventory_capacity">
+		<text>Capacity:</text>
+	</string>
+	<string id="st_liters">
+		<text>L</text>
+	</string>
+	<string id="st_alt_aim_switched_on">
+		<text>Aiming Mode: Iron Sight</text>
+	</string>
+	<string id="st_alt_aim_switched_off">
+		<text>Aiming Mode: Optics</text>
+	</string>
+	<string id="ui_mm_svp_mouse_sense">
+		<text>Mouse Sensitivity in 3D Scopes</text>
+	</string>
+	<string id="ui_mm_grass_shadows_dintance">
+		<text>Grass Shadows Radius</text>
+	</string>
+	<string id="ui_mm_grass_shadows_dintance_hint">
+		<text>This option allows you to adjust the shadow rendering radius of grass. Lowering the value can gain some FPS. \n\n %c[pda_yellow] • Load: Medium</text>
+	</string>
+	<string id="ui_inv_outfit_artefacts_count">
+		<text>Artifact Cells</text>
+	</string>
+	<string id="ui_inv_outfit_inventory_capacity">
+		<text>Capacity</text>
+	</string>
+	<string id="st_saves_locked">
+		<text>Saves are Locked</text>
+	</string>
+	<string id="ui_st_animated_backpack">
+		<text>Animated backpack</text>
+	</string>
+</string_table>
